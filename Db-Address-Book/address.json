@@ -1,0 +1,28 @@
+{
+  "addresses": [
+    {
+      "name": "Arda",
+      "lastName": "Atılgan",
+      "phoneNumber": "054258741",
+      "id": 41595
+    },
+    {
+      "name": "Yasin",
+      "lastName": "Atilgan",
+      "phoneNumber": "054128522",
+      "id": 54074
+    },
+    {
+      "name": "Atakan",
+      "lastName": "Atilgan",
+      "phoneNumber": "02541287545",
+      "id": 25935
+    },
+    {
+      "name": "Mehmet",
+      "lastName": "Kılıçbay",
+      "phoneNumber": "02587413",
+      "id": 531
+    }
+  ]
+}

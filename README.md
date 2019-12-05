@@ -24,7 +24,7 @@ Rest API'nin izlenebilmesi için aşağıdaki komutlar çalıştırılmalıdır.
 
 ```
  cd Db-Address-Book
- json-server --watch db.json
+ json-server --watch address.json
 ```
 AngularJS projesinin çalıştırılması için aşağıdaki komutlar çalıştırılmalıdır.
 

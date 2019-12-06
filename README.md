@@ -1,5 +1,5 @@
 # Address-Book
-AngularJS, Bootstrap, Bootswatch ve JSON - Server Rest API kullanarak geliştirdiğim projedir.
+AngularJS, Bootstrap, Bootswatch ve JSON - Server Rest API kullanarak geliştirdiğim Adres Defteri projesidir.
 
 # Proje Açıklaması
 ![address](https://user-images.githubusercontent.com/22527168/70274964-3b0aa580-17be-11ea-9094-72b48085cd2b.PNG)
@@ -32,3 +32,9 @@ AngularJS projesinin çalıştırılması için aşağıdaki komutlar çalışt�
  cd Address-Book
  ng serve --open
 ```
+# Projeye Eklenmesi Planlanan Özellikler
+
+1. Projeye responsive tasarımın eklenmesi.
+2. Kayıtların tutulduğu tabloda listenin fazla uzun olmaması için pagination işleminin gerçekleştirilmesi.
+3. Telefon numarası validasyonunun number formatı yerine herhangi bir telefon numarası formatına göre yapılması.
+4. Soyad validasyonun uzunluk yerine tek ya da iki kelimeye izin verecek şekilde yapılması.

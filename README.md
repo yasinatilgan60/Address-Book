@@ -1,5 +1,5 @@
 # Address-Book
-AngularJS, Bootstrap, Bootswatch ve JSON - Server Rest API kullanarak geliştirdiğim Adres Defteri projesidir.
+Angular, Bootstrap, Bootswatch ve JSON - Server Rest API kullanarak geliştirdiğim Adres Defteri projesidir.
 
 # Proje Açıklaması
 ![address](https://user-images.githubusercontent.com/22527168/70274964-3b0aa580-17be-11ea-9094-72b48085cd2b.PNG)
